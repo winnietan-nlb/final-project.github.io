@@ -1,2 +1,3 @@
 name: Winnie's Final Project
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
