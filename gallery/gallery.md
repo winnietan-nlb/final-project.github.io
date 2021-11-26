@@ -1,0 +1,10 @@
+---
+layout: post
+title: "A series of contemporary Southeast Asian art"
+---
+
+Take a stroll through this digital exhibit. What feelings do these works invoke? Which is your favourite?
+
+![montien-boonma-1](https://user-images.githubusercontent.com/90135238/143543857-9bc4ce61-c3f8-4364-bb9c-5556cf37a281.jpg)
+
+Thai monarchs have long had a history of welcoming foreign influences, especially from China and India. Hence, the country and its culture did not experience the intense modernizing force that imperialism brought about in the rest of Southeast Asia.
